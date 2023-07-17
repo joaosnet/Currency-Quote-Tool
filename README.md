@@ -39,6 +39,7 @@ python currency_quote_tool.py
 ## Screenshots
 
 ![Currency Quote Tool](/screenshots/currency_quote_tool.png)
+
 _Figure 1: Currency Quote Tool GUI_
 
 
