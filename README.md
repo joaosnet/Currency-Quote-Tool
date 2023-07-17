@@ -1,4 +1,3 @@
-```markdown
 # Currency Quote Tool - Python with Tkinter
 
 This repository contains a currency quotation tool developed in Python using Tkinter. It provides a graphical user interface (GUI) for users to retrieve currency exchange rates.
